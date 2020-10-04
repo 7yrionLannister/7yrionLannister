@@ -8,7 +8,7 @@ I am a coding machine powered by caffeine and video games ☕🕹️🎮
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7yrionLannister&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 #### Something I'm proud of
-[![Check Out](https://github-readme-stats.vercel.app/api/pin/?username=7yrionLannister&repo=pacman-game&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Check Out](https://github-readme-stats.vercel.app/api/pin/?username=7yrionLannister&repo=pacman-game&theme=dark)](https://github.com/7yrionLannister/pacman-game)
 
 Passionate about **GNU/Linux**
 
