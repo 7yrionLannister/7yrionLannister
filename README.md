@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello world! 👋🌎
 
-<!--
-**7yrionLannister/7yrionLannister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a coding machine powered by caffeine and video games ☕🕹️🎮
 
-Here are some ideas to get you started:
+🤓 Currently working on something really cool...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![7yrionLannister's github stats](https://github-readme-stats.vercel.app/api?username=7yrionLannister&&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7yrionLannister&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Something I'm proud of
+
+[![Check Out](https://github-readme-stats.vercel.app/api/pin/?username=7yrionLannister&repo=pacman-game&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Passionate about **GNU/Linux**
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=7yrionLannister.7yrionLannister)
